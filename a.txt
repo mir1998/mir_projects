@@ -1,2 +1,6 @@
 "A.file" 
+<<<<<<< HEAD
 "Another new file" 
+=======
+"A new file"
+>>>>>>> feature/task-3
