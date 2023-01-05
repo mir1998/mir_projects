@@ -4,3 +4,4 @@
 =======
 "A new file"
 >>>>>>> feature/task-3
+"A really new file" 
